@@ -3,7 +3,7 @@ name: Financial Review
 about: Financial Review
 title: "Monthly Financial Review"
 labels: "capital"
-assignees: ""
+assignees: "thaunghtike-share"
 ---
 
 # Todo
