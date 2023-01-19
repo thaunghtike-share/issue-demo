@@ -8,7 +8,7 @@ assignees: "thaunghtike-share"
 
 # Todo
 
-- [ ] Taxes
+- Taxes
 - [ ] Quickbooks
 - [ ] Bookkeeping
 
