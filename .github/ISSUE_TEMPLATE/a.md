@@ -6,16 +6,6 @@ labels: ''
 assignees: ""
 ---
 
-# Code Checklist
-
-Ensure the following tasks are completed.
-
-- [ ] Is dependencies added with `poetry add`?
-- [ ] Is the README.md updated?
-- [ ] Are tests included?
-- [ ] Are the tests running?
-- [ ] Are the names of the files correct?
-
 # Real Estate
 
 - [ ] Land
@@ -23,5 +13,12 @@ Ensure the following tasks are completed.
 - [ ] Units
 - [ ] Tenants
 - [ ] Competitors (Neighboring Lots)
+
+- [ ] Find REITs for Texas triangle
+- [ ] Property
+  - [ ] [https://github.com/opszero/opszero/issues/3214](https://github.com/opszero/opszero/issues/3214)
+  - [ ] [https://github.com/opszero/data-realestate/issues/4](https://github.com/opszero/data-realestate/issues/4)
+- [ ] Units
+  - [ ] Belongs to Property
 
 
